@@ -10,7 +10,7 @@
   "author": "gabrielGhostK",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^4.38.0",
-    "mysql12": "^1.6.1"
+    "mysql": "^2.18.1",
+    "sequelize-cli": "^6.4.1"
   }
 }
