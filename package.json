@@ -1,0 +1,16 @@
+{
+  "name": "desktop-agenda",
+  "version": "1.0.0",
+  "description": "Agenda de Contatos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "gabrielGhostK",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^4.38.0",
+    "mysql12": "^1.6.1"
+  }
+}
